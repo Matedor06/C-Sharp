@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34ACEA40-D359-40FF-B9A4-434C0367D225}|Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.validationlibrary\\validationrules\\pickervalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ACEA40-D359-40FF-B9A4-434C0367D225}|Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj|solutionrelative:solution.validationlibrary\\validationrules\\pickervalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\createoreditmotorcycleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.core\\models\\motorcycletypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\motorcycletypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.core\\models\\motorcyclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\motorcyclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88013A1C-1958-47CF-86F3-57996343D1B0}|Solution.Core\\Solution.Core.csproj|solutionrelative:solution.core\\models\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ACEA40-D359-40FF-B9A4-434C0367D225}|Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.validationlibrary\\validatableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ACEA40-D359-40FF-B9A4-434C0367D225}|Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj|solutionrelative:solution.validationlibrary\\validatableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.database\\migrations\\20250219082559_type_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\migrations\\20250219082559_type_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.desktopapp\\viewmodels\\motorcyclelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\viewmodels\\motorcyclelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.desktopapp\\components\\motorcyclelistcomponent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\components\\motorcyclelistcomponent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542885BE-10AA-472C-AECC-AF68FFD90A2D}|Solution.DesktopApp\\Solution.DesktopApp.csproj|solutionrelative:solution.desktopapp\\configurations\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.services\\motorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256048E6-59B0-4F60-9263-51C605A5DB61}|Solution.Services\\Solution.Services.csproj|solutionrelative:solution.services\\motorcycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|c:\\users\\b1karmat\\desktop\\karasz m\u00E1t\u00E9 doga\\03 - motorcycles\\solution.database\\migrations\\20250219082726_manufacturer_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7DC4EF-D3F0-456D-980B-CDA450ABE2C1}|Solution.Database\\Solution.Database.csproj|solutionrelative:solution.database\\migrations\\20250219082726_manufacturer_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MotorcycleService.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Services\\MotorcycleService.cs",
+              "RelativeDocumentMoniker": "Solution.Services\\MotorcycleService.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Services\\MotorcycleService.cs",
+              "RelativeToolTip": "Solution.Services\\MotorcycleService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0oAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:30:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PickerValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.ValidationLibrary\\ValidationRules\\PickerValidationRule.cs",
+              "RelativeDocumentMoniker": "Solution.ValidationLibrary\\ValidationRules\\PickerValidationRule.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.ValidationLibrary\\ValidationRules\\PickerValidationRule.cs",
+              "RelativeToolTip": "Solution.ValidationLibrary\\ValidationRules\\PickerValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:05:26.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250219082559_type_data.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DataBase\\Migrations\\20250219082559_type_data.cs",
+              "RelativeDocumentMoniker": "Solution.DataBase\\Migrations\\20250219082559_type_data.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DataBase\\Migrations\\20250219082559_type_data.cs",
+              "RelativeToolTip": "Solution.DataBase\\Migrations\\20250219082559_type_data.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:25:59.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrEditMotorcycleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\CreateOrEditMotorcycleViewModel.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAjwI4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:04:23.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotorcycleTypeModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleTypeModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\MotorcycleTypeModel.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleTypeModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\MotorcycleTypeModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:29:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotorcycleModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\MotorcycleModel.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Core\\Models\\MotorcycleModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\MotorcycleModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:29:20.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManufacturerModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Core\\Models\\ManufacturerModel.cs",
+              "RelativeDocumentMoniker": "Solution.Core\\Models\\ManufacturerModel.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.Core\\Models\\ManufacturerModel.cs",
+              "RelativeToolTip": "Solution.Core\\Models\\ManufacturerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:29:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MotorcycleListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\ViewModels\\MotorcycleListViewModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:32:16.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidatableObject.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.ValidationLibrary\\ValidatableObject.cs",
+              "RelativeDocumentMoniker": "Solution.ValidationLibrary\\ValidatableObject.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.ValidationLibrary\\ValidatableObject.cs",
+              "RelativeToolTip": "Solution.ValidationLibrary\\ValidatableObject.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvysAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:05:03.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250219082726_manufacturer_data.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DataBase\\Migrations\\20250219082726_manufacturer_data.cs",
+              "RelativeDocumentMoniker": "Solution.DataBase\\Migrations\\20250219082726_manufacturer_data.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DataBase\\Migrations\\20250219082726_manufacturer_data.cs",
+              "RelativeToolTip": "Solution.DataBase\\Migrations\\20250219082726_manufacturer_data.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:27:26.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotorcycleListComponent.xaml",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\Components\\MotorcycleListComponent.xaml",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Components\\MotorcycleListComponent.xaml",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\Components\\MotorcycleListComponent.xaml",
+              "RelativeToolTip": "Solution.DesktopApp\\Components\\MotorcycleListComponent.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T08:32:39.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigureDI.cs",
+              "DocumentMoniker": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "RelativeDocumentMoniker": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "ToolTip": "C:\\Users\\b1karmat\\Desktop\\Karasz M\u00E1t\u00E9 doga\\03 - Motorcycles\\Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "RelativeToolTip": "Solution.DesktopApp\\Configurations\\ConfigureDI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:34:55.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

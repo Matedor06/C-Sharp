@@ -1,0 +1,40 @@
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.deps.json
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.runtimeconfig.json
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.dll
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.pdb
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Database.dll
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.ValidationLibrary.dll
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Database.pdb
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.ValidationLibrary.pdb
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.csproj.AssemblyReference.cache
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.AssemblyInfoInputs.cache
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.AssemblyInfo.cs
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.csproj.CoreCompileInputs.cache
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.91310519.Up2Date
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.dll
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\refint\Solution.Core.dll
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.pdb
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.genruntimeconfig.cache
+C:\Users\b1karmat\Desktop\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\ref\Solution.Core.dll
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.deps.json
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.runtimeconfig.json
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.dll
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Core.pdb
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Database.dll
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.ValidationLibrary.dll
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.Database.pdb
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\Solution.ValidationLibrary.pdb
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.csproj.AssemblyReference.cache
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.AssemblyInfoInputs.cache
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.AssemblyInfo.cs
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.csproj.CoreCompileInputs.cache
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.91310519.Up2Date
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.dll
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\refint\Solution.Core.dll
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.pdb
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\Solution.Core.genruntimeconfig.cache
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\obj\Debug\net9.0\ref\Solution.Core.dll
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\appSettings.Development.json
+C:\Users\b1karmat\Desktop\Karasz Máté doga\03 - Motorcycles\Solution.Core\bin\Debug\net9.0\appSettings.Production.json
