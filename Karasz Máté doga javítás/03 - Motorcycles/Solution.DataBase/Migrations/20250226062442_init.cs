@@ -11,6 +11,19 @@ namespace Solution.Database.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
+                name: "Cool",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(64)", maxLength: 64, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Cool", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Manufacturer",
                 columns: table => new
                 {
@@ -34,11 +47,18 @@ namespace Solution.Database.Migrations
                     Cubic = table.Column<long>(type: "bigint", nullable: false),
                     ReleaseYear = table.Column<long>(type: "bigint", nullable: false),
                     Cylinders = table.Column<long>(type: "bigint", nullable: false),
-                    ManufacturerId = table.Column<long>(type: "bigint", nullable: false)
+                    ManufacturerId = table.Column<long>(type: "bigint", nullable: false),
+                    CoolId = table.Column<long>(type: "bigint", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Motorcycle", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Motorcycle_Cool_CoolId",
+                        column: x => x.CoolId,
+                        principalTable: "Cool",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Motorcycle_Manufacturer_ManufacturerId",
                         column: x => x.ManufacturerId,
@@ -48,10 +68,21 @@ namespace Solution.Database.Migrations
                 });
 
             migrationBuilder.CreateIndex(
+                name: "IX_Cool_Name",
+                table: "Cool",
+                column: "Name",
+                unique: true);
+
+            migrationBuilder.CreateIndex(
                 name: "IX_Manufacturer_Name",
                 table: "Manufacturer",
                 column: "Name",
                 unique: true);
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Motorcycle_CoolId",
+                table: "Motorcycle",
+                column: "CoolId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Motorcycle_ManufacturerId",
@@ -64,6 +95,9 @@ namespace Solution.Database.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Motorcycle");
+
+            migrationBuilder.DropTable(
+                name: "Cool");
 
             migrationBuilder.DropTable(
                 name: "Manufacturer");

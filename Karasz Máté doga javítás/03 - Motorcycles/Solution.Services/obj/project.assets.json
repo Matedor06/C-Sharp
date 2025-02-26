@@ -6706,11 +6706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
+      "projectUniqueName": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
       "projectName": "Solution.Services",
-      "projectPath": "E:\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
+      "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Services\\Solution.Services.csproj",
       "packagesPath": "C:\\Users\\b1karmat\\.nuget\\packages\\",
-      "outputPath": "E:\\03 - Motorcycles\\Solution.Services\\obj\\",
+      "outputPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6732,11 +6732,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj": {
-              "projectPath": "E:\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj"
+            "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj": {
+              "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj"
             },
-            "E:\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj": {
-              "projectPath": "E:\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj"
+            "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj": {
+              "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj"
             }
           }
         }

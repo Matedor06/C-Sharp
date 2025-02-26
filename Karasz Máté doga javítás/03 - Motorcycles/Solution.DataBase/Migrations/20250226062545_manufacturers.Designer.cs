@@ -11,8 +11,8 @@ using Solution.DataBase;
 namespace Solution.Database.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250116073519_init")]
-    partial class init
+    [Migration("20250226062545_manufacturers")]
+    partial class manufacturers
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +23,27 @@ namespace Solution.Database.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("Solution.Database.Entities.CoolEntity", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(64)
+                        .HasColumnType("nvarchar(64)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Name")
+                        .IsUnique();
+
+                    b.ToTable("Cool");
+                });
 
             modelBuilder.Entity("Solution.Database.Entities.ManufacturerEntity", b =>
                 {
@@ -53,6 +74,9 @@ namespace Solution.Database.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
 
+                    b.Property<long>("CoolId")
+                        .HasColumnType("bigint");
+
                     b.Property<long>("Cubic")
                         .HasColumnType("bigint");
 
@@ -77,6 +101,8 @@ namespace Solution.Database.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CoolId");
+
                     b.HasIndex("ManufacturerId");
 
                     b.ToTable("Motorcycle");
@@ -84,13 +110,26 @@ namespace Solution.Database.Migrations
 
             modelBuilder.Entity("Solution.Database.Entities.MotorcycleEntity", b =>
                 {
+                    b.HasOne("Solution.Database.Entities.CoolEntity", "Cool")
+                        .WithMany("Motorcycles")
+                        .HasForeignKey("CoolId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("Solution.Database.Entities.ManufacturerEntity", "Manufacturer")
                         .WithMany("Motorcycles")
                         .HasForeignKey("ManufacturerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("Cool");
+
                     b.Navigation("Manufacturer");
+                });
+
+            modelBuilder.Entity("Solution.Database.Entities.CoolEntity", b =>
+                {
+                    b.Navigation("Motorcycles");
                 });
 
             modelBuilder.Entity("Solution.Database.Entities.ManufacturerEntity", b =>

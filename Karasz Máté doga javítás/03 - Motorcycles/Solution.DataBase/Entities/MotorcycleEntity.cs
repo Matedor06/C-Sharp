@@ -30,4 +30,10 @@ public class MotorcycleEntity
     public uint ManufacturerId { get; set; }
 
     public virtual ManufacturerEntity Manufacturer { get; set; }
+
+    [ForeignKey("Cool")]
+
+    public uint CoolId { get; set; }
+
+    public virtual CoolEntity Cool { get; set; }
 }

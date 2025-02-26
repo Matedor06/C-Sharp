@@ -6585,11 +6585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
       "projectName": "Solution.ValidationLibrary",
-      "projectPath": "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
+      "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
       "packagesPath": "C:\\Users\\b1karmat\\.nuget\\packages\\",
-      "outputPath": "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\obj\\",
+      "outputPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

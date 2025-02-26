@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xZ4UrwybyfA=",
+  "dgSpecHash": "zv3boV+YM0U=",
   "success": true,
-  "projectFilePath": "E:\\03 - Motorcycles\\Solution.PdfGenerator\\Solution.PdfGenerator.csproj",
+  "projectFilePath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.PdfGenerator\\Solution.PdfGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b1karmat\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\b1karmat\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

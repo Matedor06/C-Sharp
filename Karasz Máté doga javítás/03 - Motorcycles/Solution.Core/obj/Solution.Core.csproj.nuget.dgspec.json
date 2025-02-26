@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj": {}
+    "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj": {}
   },
   "projects": {
-    "E:\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj": {
+    "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
+        "projectUniqueName": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
         "projectName": "Solution.Core",
-        "projectPath": "E:\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
+        "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Core\\Solution.Core.csproj",
         "packagesPath": "C:\\Users\\b1karmat\\.nuget\\packages\\",
-        "outputPath": "E:\\03 - Motorcycles\\Solution.Core\\obj\\",
+        "outputPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj": {
-                "projectPath": "E:\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj"
+              "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj": {
+                "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj"
               },
-              "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj": {
-                "projectPath": "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj"
+              "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj": {
+                "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "E:\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj": {
+    "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
+        "projectUniqueName": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
         "projectName": "Solution.Database",
-        "projectPath": "E:\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
+        "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\Solution.Database.csproj",
         "packagesPath": "C:\\Users\\b1karmat\\.nuget\\packages\\",
-        "outputPath": "E:\\03 - Motorcycles\\Solution.Database\\obj\\",
+        "outputPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,14 +271,14 @@
         }
       }
     },
-    "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj": {
+    "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
         "projectName": "Solution.ValidationLibrary",
-        "projectPath": "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
+        "projectPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\Solution.ValidationLibrary.csproj",
         "packagesPath": "C:\\Users\\b1karmat\\.nuget\\packages\\",
-        "outputPath": "E:\\03 - Motorcycles\\Solution.ValidationLibrary\\obj\\",
+        "outputPath": "C:\\Users\\b1karmat\\Desktop\\github\\C-Sharp\\Karasz Máté doga javítás\\03 - Motorcycles\\Solution.ValidationLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

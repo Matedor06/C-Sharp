@@ -26,3 +26,18 @@ E:\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\refint\Solution.
 E:\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.pdb
 E:\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.genruntimeconfig.cache
 E:\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\ref\Solution.ValidationLibrary.dll
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\bin\Debug\net9.0\Solution.ValidationLibrary.deps.json
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\bin\Debug\net9.0\Solution.ValidationLibrary.runtimeconfig.json
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\bin\Debug\net9.0\Solution.ValidationLibrary.dll
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\bin\Debug\net9.0\Solution.ValidationLibrary.pdb
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.csproj.AssemblyReference.cache
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.AssemblyInfoInputs.cache
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.AssemblyInfo.cs
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.sourcelink.json
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.dll
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\refint\Solution.ValidationLibrary.dll
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.pdb
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\Solution.ValidationLibrary.genruntimeconfig.cache
+C:\Users\b1karmat\Desktop\github\C-Sharp\Karasz Máté doga javítás\03 - Motorcycles\Solution.ValidationLibrary\obj\Debug\net9.0\ref\Solution.ValidationLibrary.dll
