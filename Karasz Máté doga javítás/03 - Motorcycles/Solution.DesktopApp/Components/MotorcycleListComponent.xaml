@@ -11,6 +11,7 @@
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="100" />
             </Grid.ColumnDefinitions>
 
@@ -29,7 +30,10 @@
             <Label Grid.Column="4"
                    Text="{Binding Motorcycle.Cubic.Value, Source={x:Reference this}}" 
                    HorizontalTextAlignment="End" VerticalTextAlignment="Center" />
-            <ImageButton Grid.Column="5"
+            <Label Grid.Column="5"
+                   Text="{Binding Motorcycle.Cool.Value.Name, Source={x:Reference this}}" 
+                   HorizontalTextAlignment="End" VerticalTextAlignment="Center" />
+            <ImageButton Grid.Column="6"
                          Source="edit.png"
                          Command="{Binding EditCommand, Source={x:Reference this}}"
                          HorizontalOptions="End" VerticalOptions="Center" 

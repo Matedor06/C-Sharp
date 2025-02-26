@@ -34,6 +34,7 @@
                             <ColumnDefinition Width="*" />
                             <ColumnDefinition Width="*" />
                             <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
                             <ColumnDefinition Width="100" />
                         </Grid.ColumnDefinitions>
 
@@ -57,6 +58,10 @@
                                Text="Cubic"
                                HorizontalTextAlignment="End"
                                Style="{x:StaticResource TableHeader}" />
+                        <Label Grid.Column="5"
+                                 Text="Cooling"
+                                 HorizontalTextAlignment="End"
+                                 Style="{x:StaticResource TableHeader}" />
                     </Grid>
                 </CollectionView.Header>
                 <CollectionView.ItemsLayout>
