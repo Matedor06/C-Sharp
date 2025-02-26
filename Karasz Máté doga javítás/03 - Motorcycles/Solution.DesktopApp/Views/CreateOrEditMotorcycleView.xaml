@@ -89,6 +89,20 @@
         </VerticalStackLayout>
 
         <VerticalStackLayout Style="{StaticResource FormLineContainer}">
+            <Label Text="Cooling"></Label>
+            <Picker ItemsSource="{Binding Cools}"
+            ItemDisplayBinding="{Binding Name}"
+            SelectedItem="{Binding Cool.Value}">
+                <Picker.Behaviors>
+                    <toolkit:EventToCommandBehavior EventName="SelectedIndexChanged"
+                                            Command="{Binding CoolIndexChangedCommand}" />
+                </Picker.Behaviors>
+            </Picker>
+            <Label Text="{Binding Cool.Errors, Converter={StaticResource FirstValidationErrorConverter}}"
+           Style="{StaticResource ValidationErrorLabelStyle}" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout Style="{StaticResource FormLineContainer}">
             <Button Text="Submit" Command="{Binding SubmitCommand}" WidthRequest="250"/>
         </VerticalStackLayout>
         

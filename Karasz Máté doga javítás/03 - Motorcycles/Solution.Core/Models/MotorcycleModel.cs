@@ -6,6 +6,8 @@ public partial class MotorcycleModel
 
     public ValidatableObject<ManufacturerModel> Manufacturer { get; set; }
 
+    public ValidatableObject<CoolModel> Cool { get; set; }
+
     public ValidatableObject<string> Model { get; protected set; }
 
     public ValidatableObject<uint?> Cubic { get; protected set; }
@@ -17,6 +19,7 @@ public partial class MotorcycleModel
     public MotorcycleModel()
     {
         this.Manufacturer = new ValidatableObject<ManufacturerModel>();
+        this.Cool = new ValidatableObject<CoolModel>();
         this.Model = new ValidatableObject<string>();
         this.Cubic = new ValidatableObject<uint?>();
         this.ReleaseYear = new ValidatableObject<uint?>();
@@ -29,6 +32,7 @@ public partial class MotorcycleModel
     {
         this.Id = entity.PublicId;
         this.Manufacturer.Value = new ManufacturerModel(entity.Manufacturer);
+        this.Cool.Value = new CoolModel(entity.Cool);
         this.Model.Value = entity.Model;
         this.Cubic.Value = entity.Cubic;
         this.ReleaseYear.Value = entity.ReleaseYear;
@@ -41,6 +45,7 @@ public partial class MotorcycleModel
         {
             PublicId = Id,
             ManufacturerId = Manufacturer.Value.Id,
+            CoolId = Cool.Value.Id,
             Model = Model.Value,
             Cubic = Cubic.Value ?? 0,
             ReleaseYear = ReleaseYear.Value ?? 0,
@@ -52,6 +57,7 @@ public partial class MotorcycleModel
     {
         entity.PublicId = Id;
         entity.ManufacturerId = Manufacturer.Value.Id;
+        entity.CoolId = Cool.Value.Id;
         entity.Model = Model.Value;
         entity.Cubic = Cubic.Value ?? 0;
         entity.ReleaseYear = ReleaseYear.Value ?? 0;
@@ -62,7 +68,12 @@ public partial class MotorcycleModel
     {
         this.Manufacturer.Validations.Add(new PickerValidationRule<ManufacturerModel>
         {
-            ValidationMessage = "ManufacturerId must be selected"
+            ValidationMessage = "Manufacturer must be selected"
+        });
+
+        this.Cool.Validations.Add(new PickerValidationRule<CoolModel>
+        {
+            ValidationMessage = "Cool must be selected"
         });
 
         this.Model.Validations.Add(new IsNotNullOrEmptyRule<string>
